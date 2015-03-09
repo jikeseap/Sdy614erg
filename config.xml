@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget id="com.mamaras3erg.com" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-<name>SDY 61 3 ergasia</name>
+<name>SDY 61 4 ergasia</name>
 <description>
-SDY61 Mamaras 3 ergasia
+SDY61 Mamaras 4 ergasia
 </description>
 <author email="jikes@sch.gr">
 Apostolis Mamaras
